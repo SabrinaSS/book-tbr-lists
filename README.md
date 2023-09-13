@@ -1,3 +1,6 @@
+# API Key
+ place your API key in NewBook.js
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
