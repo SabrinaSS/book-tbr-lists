@@ -16,7 +16,7 @@ function NewBook() {
     const [searchResults, setSearchResults] = useState([]);
     const [selectedBooks, setSelectedBooks] = useState({});
     
-    const apiKey = ['YOUR_API_KEY_HERE'];
+    const apiKey = ['REACT_APP_API_KEY'];
 
 
     const handleSearch = async () => {
