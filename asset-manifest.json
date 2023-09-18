@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/book-tbr-lists/static/css/main.f2854ab8.css",
+    "main.js": "/book-tbr-lists/static/js/main.20436e86.js",
+    "index.html": "/book-tbr-lists/index.html",
+    "main.f2854ab8.css.map": "/book-tbr-lists/static/css/main.f2854ab8.css.map",
+    "main.20436e86.js.map": "/book-tbr-lists/static/js/main.20436e86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2854ab8.css",
+    "static/js/main.20436e86.js"
+  ]
+}
